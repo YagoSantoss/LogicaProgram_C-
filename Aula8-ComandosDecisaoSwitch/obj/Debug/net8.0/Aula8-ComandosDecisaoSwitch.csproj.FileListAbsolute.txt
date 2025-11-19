@@ -1,0 +1,14 @@
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\bin\Debug\net8.0\Aula8-ComandosDecisaoSwitch.exe
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\bin\Debug\net8.0\Aula8-ComandosDecisaoSwitch.deps.json
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\bin\Debug\net8.0\Aula8-ComandosDecisaoSwitch.runtimeconfig.json
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\bin\Debug\net8.0\Aula8-ComandosDecisaoSwitch.dll
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\bin\Debug\net8.0\Aula8-ComandosDecisaoSwitch.pdb
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.AssemblyInfoInputs.cache
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.AssemblyInfo.cs
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.dll
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\refint\Aula8-ComandosDecisaoSwitch.dll
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.pdb
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\Aula8-ComandosDecisaoSwitch.genruntimeconfig.cache
+C:\Users\yago.psantos2\OneDrive - SENAC - SP\Área de Trabalho\LogicaProgram_C#\Aula8-ComandosDecisaoSwitch\obj\Debug\net8.0\ref\Aula8-ComandosDecisaoSwitch.dll
